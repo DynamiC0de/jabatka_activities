@@ -6,15 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
+title: Jabatka Inner MVP
 email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+description: Jabatka inner MVP for data collection
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+twitter_username: cd4st
+github_username:  dynamic0de
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
