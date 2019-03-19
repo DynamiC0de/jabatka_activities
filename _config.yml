@@ -9,8 +9,8 @@
 title: Jabatka Inner MVP
 email: hemangsk@gmail.com
 description: Jabatka inner MVP for data collection
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/jabatka_activities" # the subpath of your site, e.g. /blog
+url: "https://dynamic0de.github.io" # the base hostname & protocol for your site
 twitter_username: cd4st
 github_username:  dynamic0de
 paginate: 5
